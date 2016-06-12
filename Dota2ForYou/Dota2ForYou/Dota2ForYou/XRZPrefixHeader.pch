@@ -1,0 +1,100 @@
+//
+//  XRZPrefixHeader.pch
+//  Dota2ForYou
+//
+//  Created by XuRenzhong on 16/4/1.
+//  Copyright © 2016年 XuRenzhong. All rights reserved.
+//
+
+#ifndef XRZPrefixHeader_pch
+#define XRZPrefixHeader_pch
+
+#define SCREEN_H ([UIScreen mainScreen].bounds.size.height)
+#define SCREEN_W ([UIScreen mainScreen].bounds.size.width)
+
+#import "AFNetworking.h"
+#import "ZYZModelTool.h"
+#import "XRZMyButton.h"
+#import "SDWebImageManager.h"
+#import "MJRefresh.h"
+#import "UIImageView+WebCache.h"
+#import "FMDatabase.h"
+
+
+// 资讯-最新-接口
+// http://dota2box.oss.aliyuncs.com/json/news/newslist_99_1.json?r=516098
+#define News_Info_Url @"http://dota2box.oss.aliyuncs.com/json/news/newslist_99_%d.json?r=516098"
+
+// 资讯-最新-滚动头-接口
+// http://www.dota2.com.cn/wapnews/sliderImagesData_v2.html?1157655635
+#define News_Top_Url @"http://dota2box.oss.aliyuncs.com/json/news/banner.json?r=692777"
+
+// 资讯-官方
+// http://dota2box.oss.aliyuncs.com/json/news/newslist_1_1.json?r=58965
+#define News_GovernMent_Url @"http://dota2box.oss.aliyuncs.com/json/news/newslist_1_%d.json?r=58965"
+
+// 资讯-赛事
+// http://dota2box.oss.aliyuncs.com/json/news/newslist_3_1.json?r=262012
+#define News_Match_Url @"http://dota2box.oss.aliyuncs.com/json/news/newslist_3_%d.json?r=262012"
+
+// 资讯-更新
+// http://dota2box.oss.aliyuncs.com/json/news/newslist_2_1.json?r=291809
+#define News_Updata_Url @"http://dota2box.oss.aliyuncs.com/json/news/newslist_2_%d.json?r=291809"
+
+// 资讯详情
+// http://dota2box.oss.aliyuncs.com/json/news/content/21390.json?r=142364
+#define News_Detail_Url @"http://dota2box.oss.aliyuncs.com/json/news/content/%@.json?r=142364"
+
+// 英雄攻略
+// http://dota2box.oss.aliyuncs.com/json/news/newslist_sand_king.json?r=233516
+#define Hero_list_Url @"http://dota2box.oss.aliyuncs.com/json/news/newslist_%@.json?r=233516"
+
+// 英雄视频
+// http://dota2box.oss.aliyuncs.com/json/video/videolist_1_sven_1.json?r=52811
+#define Hero_vido_Url @"http://dota2box.oss.aliyuncs.com/json/video/videolist_1_%@_1.json?r=52811"
+
+// 其他 - 魔兽世界
+// http://cache.tuwan.com/app/?appid=1&dtid=31537&classmore=indexpic&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x137f071d0%3E
+#define Other_wow_Url @"http://cache.tuwan.com/app/?appid=1&dtid=31537&classmore=indexpic&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x137f071d0%3E"
+// 其他 - 风暴英雄
+// http://cache.tuwan.com/app/?appid=1&dtid=31538&classmore=indexpic&appid=1&appver=2.0&(null)=%3COtherNews1ViewController%3A%200x137f28bb0%3E
+#define Other_wind_Url @"http://cache.tuwan.com/app/?appid=1&dtid=31538&classmore=indexpic&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x137f28bb0%3E"
+// 其他 - 炉石传说
+// http://cache.tuwan.com/app/?appid=1&dtid=31528&classmore=indexpic&appid=1&appver=2.0&(null)=%3COtherNews1ViewController%3A%200x1385e03f0%3E
+#define Other_stone_Url @"http://cache.tuwan.com/app/?appid=1&dtid=31528&classmore=indexpic&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x1385e03f0%3E"
+// 其他 - 暗黑破坏神
+// http://cache.tuwan.com/app/?appid=1&dtid=83623&classmore=indexpic&appid=1&appver=2.0&(null)=%3COtherNews1ViewController%3A%200x1386e0ee0%3E
+#define Other_dark_Url @"http://cache.tuwan.com/app/?appid=1&dtid=83623&classmore=indexpic&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x1386e0ee0%3E"
+
+// 其他 - 幻化
+// http://cache.tuwan.com/app/?appid=1&class=heronews&mod=%E5%B9%BB%E5%8C%96&appid=1&appver=2.0&(null)=%3COtherNews1ViewController%3A%200x139801630%3E
+#define Other_cosplay_Url @"http://cache.tuwan.com/app/?appid=1&class=heronews&mod=%E5%B9%BB%E5%8C%96&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x139801630%3E"
+
+// 其他 - 星际2
+// http://cache.tuwan.com/app/?appid=1&dtid=91821&appid=1&appver=2.0&(null)=%3COtherNews1ViewController%3A%200x1386dfcd0%3E
+#define Other_star_Url @"http://cache.tuwan.com/app/?appid=1&dtid=91821&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x1386dfcd0%3E"
+// 其他 - 守望
+// http://cache.tuwan.com/app/?appid=1&dtid=57067&appid=1&appver=2.0&(null)=%3COtherNews1ViewController%3A%200x13984f540%3E
+#define Other_watch_Url @"http://cache.tuwan.com/app/?appid=1&dtid=57067&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x13984f540%3E"
+
+// 其他 - 攻略
+// http://cache.tuwan.com/app/?appid=1&type=guide&dtid=83623,31528,31537,31538,57067,91821&appid=1&appver=2.0&(null)=%3COtherNews1ViewController%3A%200x139890ae0%3E
+#define Other_idea_Url @"http://cache.tuwan.com/app/?appid=1&type=guide&dtid=83623,31528,31537,31538,57067,91821&appid=1&appver=2.0&start=0&(null)=%3COtherNews1ViewController%3A%200x139890ae0%3E"
+
+// 其他 - 详情
+// http://cache.tuwan.com/app/?class=html5&appid=1&aid=322376
+#define Other_detail_Url @"http://cache.tuwan.com/app/?class=html5&appid=1&aid=%@"
+
+// 娱乐 - 主页
+// http://dota2box.oss.aliyuncs.com/json/tu/list_0_1.json?r=588952
+#define Info_main_Url @"http://dota2box.oss.aliyuncs.com/json/tu/list_%d_%d.json?r=588952"
+
+// 娱乐 - 详情
+// http://dota2box.oss.aliyuncs.com/json/tu/0/tu_123505.json?r=463024
+#define Info_detail_Url @"http://dota2box.oss.aliyuncs.com/json/tu/%d/tu_%@.json?r=463024"
+
+// 今日 - 运势
+// http://www.dota2.com.cn/calendar/
+#define My_lucky_Url @"http://www.dota2.com.cn/calendar/"
+
+#endif /* XRZPrefixHeader_pch */
