@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libsqlite3.tbd">
+      <sourceFolder url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libsqlite3.tbd" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou/AppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou/Dota2ForYou.xcdatamodeld/Dota2ForYou.xcdatamodel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou/main.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou/XRZPrefixHeader.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou/AppDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/windrunner.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/nevermore.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/broodmother.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/sven.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/visage.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/luna.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/puck.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/beastmaster.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/skeleton_king.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/tusk.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/nyx_assassin.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/undying.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/ember_spirit.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/phoenix.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/faceless_void.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/spectre.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/techies.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/bloodseeker.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/shadow_shaman.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/alchemist.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/omniknight.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/abaddon.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/elder_titan.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/phantom_lancer.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/sand_king.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/tidehunter.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/razor.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/silencer.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/crystal_maiden.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/lone_druid.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/keeper_of_the_light.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/venomancer.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/centaur.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/spirit_breaker.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/necrolyte.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/chen.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/zuus.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/enchantress.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/sniper.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/templar_assassin.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/treant.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/ancient_apparition.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/bristleback.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/riki.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/legion_commander.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/ogre_magi.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/shredder.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/slardar.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/terrorblade.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/magnataur.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/morphling.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/chaos_knight.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/earth_spirit.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/huskar.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/skywrath_mage.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/doom_bringer.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/furion.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/shadow_demon.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/enigma.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/queenofpain.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/leshrac.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/dazzle.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/death_prophet.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/gyrocopter.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/medusa.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/dark_seer.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/storm_spirit.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/axe.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/meepo.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/slark.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/vengefulspirit.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/bane.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/ursa.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/rubick.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/obsidian_destroyer.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/disruptor.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/bounty_hunter.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/phantom_assassin.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/oracle.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/tiny.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/naga_siren.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/night_stalker.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/viper.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/kunkka.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/wisp.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/witch_doctor.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/clinkz.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/lion.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/life_stealer.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/lina.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/earthshaker.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/drow_ranger.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/tinker.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/mirana.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/troll_warlord.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/rattletrap.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/juggernaut.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/dragon_knight.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/lycan.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/pudge.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/warlock.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/brewmaster.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/antimage.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/jakiro.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/pugna.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/batrider.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/weaver.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/invoker.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroVideos/lich.m4v" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_pugna_life_drain.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_visage_gravekeepers_cloak.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_elder_titan_earth_splitter.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_leshrac_lightning_storm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_crystal_maiden_brilliance_aura.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_beastmaster_call_of_the_wild.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bounty_hunter_track.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earthshaker_aftershock.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dark_seer_surge.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_broodmother_spin_web.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_night_stalker_crippling_fear.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spectre_dispersion.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_life_stealer_infest.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chen_hand_of_god.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_gyrocopter_flak_cannon.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_oracle_fates_edict.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lycan_shapeshift.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lone_druid_true_form_battle_cry.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_viper_nethertoxin.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_undying_decay.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lich_dark_ritual.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_mirana_leap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_magnataur_shockwave.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_winter_wyvern_winters_curse.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nevermore_dark_lord.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_furion_force_of_nature.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_axe_culling_blade.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_doom_bringer_doom.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_undying_tombstone.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_kunkka_return.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_troll_warlord_whirling_axes_ranged.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spectre_desolate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_puck_illusory_orb.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ablility_tusk_launch_snowball.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_terrorblade_reflection.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skywrath_mage_ancient_seal.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_elder_titan_natural_order.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tinker_laser.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_meepo_divided_we_stand.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phantom_lancer_phantom_edge.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_morphling_morph_replicate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_clinkz_searing_arrows.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ember_spirit_searing_chains.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_enigma_malefice.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earth_spirit_magnetize.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_techies_remote_mines.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_morphling_hybrid.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nyx_assassin_impale.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earth_spirit_geomagnetic_grip.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_leshrac_split_earth.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_juggernaut_omni_slash.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_night_stalker_hunter_in_the_night.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_abaddon_death_coil.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_beastmaster_inner_beast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_legion_commander_press_the_attack.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_death_prophet_carrion_swarm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_naga_siren_song_of_the_siren.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tinker_march_of_the_machines.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tidehunter_ravage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chaos_knight_chaos_bolt.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_queenofpain_shadow_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_winter_wyvern_splinter_blast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_jakiro_ice_path.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_riki_permanent_invisibility.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_witch_doctor_voodoo_restoration.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_centaur_stampede.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_wex.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skeleton_king_vampiric_aura.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_drow_ranger_frost_arrows.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_batrider_sticky_napalm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_slark_pounce.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phoenix_sun_ray.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_puck_phase_shift.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_jakiro_dual_breath.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_medusa_mystic_snake.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lich_frost_armor.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_templar_assassin_trap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tinker_rearm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chaos_knight_chaos_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_viper_poison_attack.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lycan_howl.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earthshaker_enchant_totem.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_riki_blink_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_luna_moon_glaive.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_venomancer_poison_sting.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_mana_leak.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rattletrap_hookshot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_silencer_last_word.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phoenix_icarus_dive.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_cold_snap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nevermore_requiem.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_life_stealer_consume.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_disruptor_glimpse.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skeleton_king_reincarnation.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_jakiro_macropyre.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_huskar_life_break.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spectre_reality.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_gyrocopter_call_down.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_life_stealer_rage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_slardar_sprint.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_batrider_flamebreak.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ursa_enrage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_vengefulspirit_wave_of_terror.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_naga_siren_ensnare.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_meepo_geostrike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_kunkka_torrent.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_quas.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dark_seer_vacuum.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_elder_titan_echo_stomp.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_puck_waning_rift.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phantom_lancer_spirit_lance.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_luna_eclipse.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dazzle_shallow_grave.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_weaver_the_swarm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_disruptor_thunder_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_kunkka_tidebringer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nyx_assassin_vendetta.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_morphling_morph_str.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sniper_take_aim.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_wisp_relocate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_slardar_bash.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_viper_corrosive_skin.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_demon_soul_catcher.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ember_spirit_fire_remnant.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_wisp_tether.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ablility_shredder_return_chakram_2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shredder_timber_chain.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_illuminate_end.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_invoke.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_warlock_rain_of_chaos.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_troll_warlord_fervor.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_morphling_adaptive_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_enchantress_enchant.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spirit_breaker_nether_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_attribute_bonus@2x.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bounty_hunter_jinada.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_undying_flesh_golem.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tiny_grow.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_enchantress_impetus.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_drow_ranger_silence.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dark_seer_ion_shell.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lycan_summon_wolves.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_huskar_inner_vitality.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_enigma_black_hole.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_batrider_firefly.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bounty_hunter_shuriken_toss.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_luna_lucent_beam.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_slardar_slithereen_crush.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bristleback_quill_spray.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_demon_shadow_poison.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earth_spirit_petrify.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_oracle_false_promise.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_morphling_replicate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_windrunner_windrun.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tidehunter_gush.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_beastmaster_wild_axes.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_winter_wyvern_cold_embrace.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_techies_stasis_trap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_razor_eye_of_the_storm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_life_stealer_assimilate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tusk_ice_shards.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_witch_doctor_paralyzing_cask.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earthshaker_echo_slam.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_templar_assassin_psionic_trap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_razor_unstable_current.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_spirit_form_illuminate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rubick_spell_steal.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tiny_toss.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_huskar_berserkers_blood.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phoenix_supernova.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spirit_breaker_greater_bash.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_windrunner_shackleshot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ursa_overpower.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_weaver_shukuchi.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_shaman_ether_shock.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_naga_siren_song_of_the_siren_cancel.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_clinkz_death_pact.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spectre_haunt.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_slark_dark_pact.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tiny_avalanche.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earth_spirit_boulder_smash.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rattletrap_battery_assault.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rattletrap_power_cogs.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_omniknight_degen_aura.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_centaur_return.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_zuus_thundergods_wrath.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_alchemist_acid_spray.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_batrider_flaming_lasso.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ogre_magi_multicast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_clinkz_wind_walk.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_jakiro_liquid_fire.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lone_druid_true_form_druid.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sven_storm_bolt.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_demon_shadow_poison_release.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_alchemist_unstable_concoction.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_kunkka_x_marks_the_spot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_pudge_rot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_treant_eyes_in_the_forest.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ancient_apparition_ice_blast_release.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sniper_shrapnel.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ogre_magi_fireblast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dragon_knight_elder_dragon_form.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_terrorblade_metamorphosis.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phoenix_icarus_dive_stop.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_brewmaster_primal_split.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_juggernaut_blade_dance.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bane_enfeeble.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_enchantress_natures_attendants.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dragon_knight_breathe_fire.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_beastmaster_primal_roar.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_enigma_midnight_pulse.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_faceless_void_backtrack.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_demon_disruption.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_chaos_meteor.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_pugna_nether_blast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_spirit_form.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_night_stalker_darkness.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_omniknight_repel.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_ghost_walk.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_disruptor_static_storm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nevermore_shadowraze1.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rubick_telekinesis_land.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_visage_soul_assumption.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_necrolyte_death_pulse.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phantom_assassin_coup_de_grace.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lone_druid_synergy.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skeleton_king_hellfire_blast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_legion_commander_overwhelming_odds.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spirit_breaker_empowering_haste.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lich_frost_nova.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_techies_minefield_sign.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_faceless_void_time_walk.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_templar_assassin_psi_blades.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_forge_spirit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shredder_whirling_death.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shredder_chakram_2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_naga_siren_rip_tide.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_faceless_void_time_lock.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_viper_viper_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_omniknight_purification.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_razor_static_link.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sandking_sand_storm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earthshaker_fissure.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chaos_knight_reality_rift.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_mirana_starfall.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_brewmaster_drunken_brawler.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tusk_walrus_kick.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_drow_ranger_trueshot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_vengefulspirit_magic_missile.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_medusa_stone_gaze.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_antimage_spell_shield.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_axe_berserkers_call.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sandking_epicenter.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spectre_spectral_dagger.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_doom_bringer_scorched_earth.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tidehunter_kraken_shell.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_pudge_dismember.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_queenofpain_blink.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chaos_knight_phantasm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_witch_doctor_maledict.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_slardar_amplify_damage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ancient_apparition_ice_blast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_storm_spirit_static_remnant.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_night_stalker_void.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_slark_shadow_dance.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_queenofpain_sonic_wave.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_axe_battle_hunger.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_alchemist_chemical_rage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_brewmaster_thunder_clap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_luna_lunar_blessing.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_broodmother_insatiable_hunger.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nevermore_shadowraze2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_ice_wall.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_alchemist_goblins_greed.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_death_prophet_exorcism.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_enigma_demonic_conversion.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_treant_living_armor.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_abaddon_borrowed_time.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ancient_apparition_ice_vortex.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lina_fiery_soul.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dazzle_weave.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skywrath_mage_arcane_bolt.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_antimage_mana_break.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lion_mana_drain.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ogre_magi_ignite.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_emp.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_troll_warlord_berserkers_rage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_warlock_fatal_bonds.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_slark_essence_shift.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_silencer_glaives_of_wisdom.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_meepo_poof.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_death_prophet_witchcraft.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_illuminate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_juggernaut_healing_ward.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phantom_assassin_stifling_dagger.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earth_spirit_stone_caller.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_brewmaster_drunken_haze.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_pugna_nether_ward.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bane_brain_sap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_necrolyte_sadist.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_treant_leech_seed.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_furion_teleportation.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_troll_warlord_whirling_axes_melee.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dazzle_poison_touch.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rattletrap_rocket_flare.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dark_seer_wall_of_replica.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_alacrity.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phoenix_sun_ray_toggle_move.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_drow_ranger_marksmanship.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_pugna_decrepify.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sniper_assassinate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phoenix_fire_spirits.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_magnataur_reverse_polarity.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_legion_commander_duel.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_oracle_purifying_flames.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_wisp_spirits_in.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sandking_burrowstrike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_faceless_void_chronosphere.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_attribute_bonus.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nyx_assassin_spiked_carapace.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_techies_land_mines.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nyx_assassin_mana_burn.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tidehunter_anchor_smash.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bloodseeker_rupture.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sven_warcry.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_riki_backstab.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_deafening_blast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ursa_fury_swipes.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_vengefulspirit_nether_swap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_omniknight_guardian_angel.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lina_laguna_blade.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_windrunner_powershot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_treant_natures_guise.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_demon_demonic_purge.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phantom_assassin_blur.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_broodmother_incapacitating_bite.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_leshrac_diabolic_edict.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_recall.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_obsidian_destroyer_arcane_orb.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_broodmother_spawn_spiderlings.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phantom_lancer_juxtapose.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_obsidian_destroyer_sanity_eclipse.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shredder_return_chakram.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tusk_walrus_punch.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_crystal_maiden_crystal_nova.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chen_holy_persuasion.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_undying_soul_rip.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_magnataur_empower.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bane_nightmare.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_attribute_bonus@3x.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ancient_apparition_chilling_touch.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lion_voodoo.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_storm_spirit_ball_lightning.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_queenofpain_scream_of_pain.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lion_finger_of_death.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_gyrocopter_homing_missile.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_chakra_magic.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_elder_titan_ancestral_spirit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_pudge_meat_hook.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dragon_knight_dragon_tail.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_spirit_form_illuminate_end.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_sun_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_morphling_morph_agi.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_gyrocopter_rocket_barrage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chen_test_of_faith.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lion_impale.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_spirit_breaker_charge_of_darkness.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_beastmaster_call_of_the_wild_boar.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bounty_hunter_wind_walk.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_tornado.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ogre_magi_unrefined_fireblast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_life_stealer_feast.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_shaman_shackles.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_shaman_mass_serpent_ward.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ember_spirit_flame_guard.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_naga_siren_mirror_image.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_furion_sprout.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_antimage_mana_void.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lich_chain_frost.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ursa_earthshock.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_visage_grave_chill.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rubick_telekinesis.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ablility_life_stealer_control.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_disruptor_kinetic_field.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_earth_spirit_rolling_boulder.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phoenix_sun_ray_stop.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rubick_null_field.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_abaddon_frostmourne.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_elder_titan_return_spirit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_doom_bringer_lvl_death.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_legion_commander_moment_of_courage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sven_great_cleave.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_clinkz_strafe.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tusk_snowball.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_furion_wrath_of_nature.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phoenix_launch_fire_spirit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_templar_assassin_refraction.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skeleton_king_critical_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nyx_assassin_burrow.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_kunkka_ghostship.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_templar_assassin_meld.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lone_druid_true_form.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bloodseeker_blood_bath.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_venomancer_poison_nova.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_medusa_mana_shield.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sandking_caustic_finale.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_vengefulspirit_command_aura.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_troll_warlord_battle_trance.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_obsidian_destroyer_essence_aura.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_zuus_lightning_bolt.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_silencer_curse_of_the_silent.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_obsidian_destroyer_astral_imprisonment.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_treant_overgrowth.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_morphling_waveform.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shredder_chakram.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_antimage_blink.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_centaur_hoof_stomp.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_zuus_arc_lightning.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_death_prophet_silence.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_alchemist_unstable_concoction_throw.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_visage_summon_familiars.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lycan_feral_impulse.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_wisp_tether_break.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lina_light_strike_array.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_life_stealer_assimilate_eject.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_abaddon_aphotic_shield.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_warlock_shadow_word.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_drow_ranger_wave_of_silence.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phantom_lancer_doppelwalk.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_crystal_maiden_frostbite.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ember_spirit_sleight_of_fist.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_meepo_earthbind.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_necrolyte_reapers_scythe.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_magnataur_skewer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_necrolyte_heartstopper_aura.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tiny_craggy_exterior.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_puck_dream_coil.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ancient_apparition_cold_feet.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ogre_magi_bloodlust.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_pudge_flesh_heap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shadow_shaman_voodoo.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bloodseeker_bloodrage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_puck_ethereal_jaunt.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bloodseeker_thirst.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_wisp_overcharge.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skywrath_mage_mystic_flare.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lone_druid_rabid.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_venomancer_plague_ward.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bristleback_warpath.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_wisp_spirits.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bane_fiends_grip.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_riki_smoke_screen.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_terrorblade_conjure_image.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_storm_spirit_electric_vortex.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_doom_bringer_devour.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_invoker_exort.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sven_gods_strength.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_crystal_maiden_freezing_field.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_medusa_split_shot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_shredder_reactive_armor.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_weaver_geminate_attack.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_mirana_invis.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_sniper_headshot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dragon_knight_dragon_blood.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_dazzle_shadow_wave.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_oracle_fortunes_end.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_terrorblade_sunder.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_centaur_double_edge.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bane_nightmare_end.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_venomancer_venomous_gale.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_silencer_global_silence.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_juggernaut_blade_fury.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_zuus_static_field.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skeleton_king_mortal_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_mirana_arrow.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_huskar_burning_spear.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_techies_focused_detonate.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_leshrac_pulse_nova.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lina_dragon_slave.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_techies_suicide.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_storm_spirit_overload.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tinker_heat_seeking_missile.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_witch_doctor_death_ward.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nyx_assassin_unburrow.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_winter_wyvern_arctic_burn.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_skywrath_mage_concussive_shot.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bristleback_viscous_nasal_goo.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_rubick_fade_bolt.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_axe_counter_helix.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_ember_spirit_activate_fire_remnant.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_keeper_of_the_light_blinding_light.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nevermore_shadowraze3.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_enchantress_untouchable.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chen_penitence.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_phantom_assassin_phantom_strike.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_warlock_upheaval.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_chen_test_of_faith_teleport.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_windrunner_focusfire.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_razor_plasma_field.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_life_stealer_open_wounds.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_tusk_frozen_sigil.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_weaver_time_lapse.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_wisp_spirits_out.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_nevermore_necromastery.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_bristleback_bristleback.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/abilities/ability_lone_druid_spirit_bear.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_abyssal_blade.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_mantle.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_dust.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ogre_axe.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_rapier.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_circlet.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/solar_crest_lg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_relic.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_helm_of_iron_will.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_ham.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_greater_crit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_magic_wand.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_coco.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_mekansm.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_radiance.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_dagon_5.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ward_sentry.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_aegis.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_dagon.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_gloves.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_slippers.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_void_stone.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_blades_of_attack.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ring_of_protection.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_vitality_booster.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_force_staff.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ultimate_scepter.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_hood_of_defiance.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_diffusal_blade_2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_heavens_halberd.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_flask.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_greevil_whistle.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_orchid.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_vanguard.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_sange_and_yasha.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_gauntlets.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_monkey_king_bar.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_belt_of_strength.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_sange.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_greevil_treat.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_sheepstick.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_sobi_mask.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_buckler.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_reaver.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_magic_stick.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_quarterstaff.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ethereal_blade.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_necronomicon_2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_javelin.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_tranquil_boots.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_mask_of_madness.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_necronomicon_3.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_helm_of_the_dominator.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_arcane_boots.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_hyperstone.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_oblivion_staff.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_travel_boots.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/enchanted_mango_lg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_mithril_hammer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_maelstrom.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_heart.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_greevil_whistle_toggle.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_poor_mans_shield.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_invis_sword.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_branches.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_skadi.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_cheese.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_blade_of_alacrity.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_greevil_garbage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_black_king_bar.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ancient_janggo.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_staff_of_wizardry.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_shivas_guard.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_stocking.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ring_of_aquila.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_bracer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/silver_edge_lg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_veil_of_discord.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_clarity.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_medallion_of_courage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_recipe.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_null_talisman.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_desolator.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_present.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_robe.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_vladmir.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_gem.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_halloween_candy_corn.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_soul_ring.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_mushroom.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_stout_shield.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_bottle.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_lesser_crit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_boots.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_kringle.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_phase_boots.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_platemail.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_greevil_chewy.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_hand_of_midas.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_lifesteal.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_tpscroll.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_power_treads.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_mjollnir.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/lotus_orb_lg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_diffusal_blade.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ring_of_regen.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_blade_mail.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_yasha.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ring_of_health.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_boots_of_elves.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_point_booster.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_sphere.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ring_of_basilius.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/octarine_core_lg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_armlet.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/guardian_greaves_lg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_urn_of_shadows.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_blink.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_energy_booster.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_dagon_4.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_shadow_amulet.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_basher.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_skates.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_eagle.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ghost.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_tango.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_orb_of_venom.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_mystic_staff.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_courier.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_flying_courier.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_headdress.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_crimson_guard.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_pers.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ward_observer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_soul_booster.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_dagon_3.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_talisman_of_evasion.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_assault.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_necronomicon.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_quelling_blade.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/moon_shard_lg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_ultimate_orb.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_claymore.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_manta.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/glimmer_cape_lg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_bfury.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_bloodstone.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_chainmail.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_rod_of_atos.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_demon_edge.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_smoke_of_deceit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_cake.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_dagon_2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_pipe.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_broadsword.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_cyclone.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_wraith_band.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_satanic.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_cloak.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_butterfly.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_refresher.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/items/item_winter_cookie.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/dota2db.db" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/medusa.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/death_prophet.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/bane.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/faceless_void.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/techies.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/rubick.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/obsidian_destroyer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/disruptor.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/phantom_assassin.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/alchemist.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/naga_siren.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/queenofpain.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/phantom_lancer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/wisp.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/huskar.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/doom_bringer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/leshrac.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/lion.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/razor.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/lina.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/winter_wyvern.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/earthshaker.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/drow_ranger.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/silencer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/lone_druid.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/mirana.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/invoker.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/phoenix.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/viper.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/rattletrap.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/juggernaut.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/dazzle.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/lycan.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/pudge.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/templar_assassin.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/brewmaster.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/jakiro.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/weaver.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/pugna.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/lich.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/windrunner.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/shredder.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/broodmother.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/sven.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/enchantress.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/luna.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/puck.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/spectre.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/life_stealer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/beastmaster.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/skeleton_king.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/furion.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/tusk.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/undying.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/ember_spirit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/venomancer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/dragon_knight.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/nevermore.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/dark_seer.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/enigma.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/shadow_shaman.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/omniknight.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/abaddon.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/keeper_of_the_light.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/elder_titan.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/sand_king.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/tidehunter.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/vengefulspirit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/terrorblade.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/oracle.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/meepo.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/warlock.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/antimage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/nyx_assassin.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/centaur.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/spirit_breaker.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/necrolyte.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/witch_doctor.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/clinkz.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/chen.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/crystal_maiden.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/ursa.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/skywrath_mage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/treant.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/ogre_magi.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/ancient_apparition.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/bristleback.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/troll_warlord.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/legion_commander.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/slark.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/bloodseeker.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/slardar.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/magnataur.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/morphling.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/chaos_knight.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/earth_spirit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/gyrocopter.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/night_stalker.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/kunkka.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/tiny.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/shadow_demon.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/sniper.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/axe.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/zuus.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/tinker.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/riki.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/batrider.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/visage.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/bounty_hunter.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data/heroPortraits/storm_spirit.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/XRZMyButton/XRZMyButton.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/XRZMyButton/XRZMyButton.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMDatabaseAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMResultSet.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMDatabase.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMDatabaseAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMDatabasePool.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMDatabaseQueue.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMResultSet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMDatabase.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMDatabasePool.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/FMDB/FMDatabaseQueue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/ZYZModelTool/ZYZModelTool.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/ZYZModelTool/ZYZModelTool.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageCompat.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageCompat.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImageView+WebCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageDownloader.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImageView+HighlightedWebCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageDownloader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImageView+HighlightedWebCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImage+WebP.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImagePrefetcher.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImage+WebP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/MKAnnotationView+WebCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImagePrefetcher.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/MKAnnotationView+WebCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImage+MultiFormat.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImage+MultiFormat.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIButton+WebCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImageView+WebCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIButton+WebCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/NSData+ImageContentType.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/NSData+ImageContentType.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageDecoder.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageDownloaderOperation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIView+WebCacheOperation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDImageCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageDecoder.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDWebImageDownloaderOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImage+GIF.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIView+WebCacheOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/SDImageCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/SDWebImage/UIImage+GIF.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefreshBaseView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/UIView+MJExtension.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefresh.bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/UIView+MJExtension.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefreshFooterView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefreshConst.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefresh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/UIScrollView+MJExtension.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefreshFooterView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefreshConst.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefreshHeaderView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/UIScrollView+MJRefresh.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefreshHeaderView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/UIScrollView+MJRefresh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/UIScrollView+MJExtension.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/MJRefresh/MJRefreshBaseView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFHTTPSessionManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFURLResponseSerialization.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFNetworkReachabilityManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFHTTPRequestOperationManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFURLConnectionOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFHTTPRequestOperation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFHTTPRequestOperationManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFURLConnectionOperation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFHTTPRequestOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFURLRequestSerialization.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFHTTPSessionManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFSecurityPolicy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFURLResponseSerialization.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFURLSessionManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFSecurityPolicy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFURLSessionManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFURLRequestSerialization.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3PL/AFNetworking/AFNetworkReachabilityManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MainViewController/XRZMainTabBarViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MainViewController/XRZMainTabBarViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZLuckyViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZLuckyViewController.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZMyView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZMyInfoController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZMyView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZLuckyViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZMyView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZMyInfoController.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/MY/XRZMyInfoController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/ANTHERNEWS/XRZOtherDetailController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/ANTHERNEWS/XRZGameDetail.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/ANTHERNEWS/XRZOtherDetailController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/ANTHERNEWS/XRZGameDetail.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/ANTHERNEWS/XRZAntherNewsView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/ANTHERNEWS/XRZAntherNewsView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZVidoModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZInfoDetailModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZNiceModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZVidoModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZInfoDetailModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZNiceModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZOtherModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZNewsModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZInfoModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZHerosModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZSkillModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZNewsModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZInfoModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZHerosModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZSkillModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/InfoScrollerModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZOtherHeadModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/InfoScrollerModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZOtherHeadModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/Models/XRZOtherModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/NEWS/ChildsOfNews/XRZNewsDetailController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/NEWS/ChildsOfNews/XRZNewsRootView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/NEWS/ChildsOfNews/XRZNewsDetailController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/NEWS/ChildsOfNews/XRZNewsRootView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/NEWS/XRZNewsView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/NEWS/XRZNewsView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZHeroVidoViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZHeroEquipmentController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZTaticController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZHeroEquipmentController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZHeroSkill.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZHeroSkill.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZStoryOfHero.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZHerosView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZHerosView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZDetailHero.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZAvPlayViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZStoryOfHero.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZDetailHero.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZAvPlayViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZHeroVidoViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/HEROS/XRZTaticController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/INFOMATION/XRZInfoDetailController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/INFOMATION/XRZInfomationView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/INFOMATION/XRZInfomationView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UI/INFOMATION/XRZInfoDetailController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZSkillCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZInfoCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHerosCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZOtherCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZOtherCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZDetailNewsCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHerosCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHeroEqumentCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZSkillCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZNesCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHerosHeaderView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZDetailNewsCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHeroEqumentCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHerosHeaderView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZInfoCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZDetailNewsCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZNesCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHerosCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHeroVidoCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHeroVidoCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZNesCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZSkillCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHeroVidoCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZOtherCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZHeroEqumentCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyCell/XRZInfoCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hero_bg.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/zhili.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/BookCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/grid_line.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hero_btn_bg4.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/AppIcon40x40@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hero_bottom.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/build-stats-btn.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/build-share-btn.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/zhili@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/AppIcon40x40@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/2back1.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/icon_wupin.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/yidongsudu@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/build-share-btn@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/AppIcon29x29.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/my_bg.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/yidongsudu@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/build-share-btn@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Default-Portrait.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/grid_line@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/grid_line@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/build-stats-btn@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/icon_bisai.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/common_back_button.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/build-stats-btn@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_nor@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel1@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/table-footer-shadow.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel0@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel5@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_nor2@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel4.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor0@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor5@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor4@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/table-footer-shadow@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor2@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor3.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel2@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor1@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel3@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor3@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor4@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel5.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor4.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel0@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor1@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_sel.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor1.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_nor2.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_my.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor5@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/table-footer-shadow@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_sel2@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel2.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_sel2@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_nor@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor0.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel4@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel1@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor3@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel3.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel3@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel4@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_sel@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor0@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor2.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_nor.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_nor2@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_sel2.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor2@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_my@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel1.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel2@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel5@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_sel@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_nor5.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TabBarItems/tab_btn_sel0.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/zhili@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/封底.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hujia@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/liliang@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hujia@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/2back2.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/tmall_button_buynow_normal.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/AppIcon40x40.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/liliang.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TakePosition/noimage_xiangqing.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TakePosition/BannerLoading@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TakePosition/BannerLoading.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/TakePosition/BannerLoading@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hujia.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/info_bg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/minjie@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/liliang@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hero_btn_bg2.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hero_top_bg.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/gongjili.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/other_bg.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/stone.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/watch.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/blz.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/other_book_bg.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/wower.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/cosplay.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/wind.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/iconfont-aisyulan.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/stars2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/anther_bg.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/dark3.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/OtherImages/iconfont-riqi-2.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/yidongsudu.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/BookCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/BookLayout.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/common_back_button@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/tbmessage_button_banner@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/BookLayout.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/tmall_button_buynow_normal@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/AppIcon29x29@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/common_back_button@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/tbmessage_button_banner@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/tmall_button_buynow_normal@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/AppIcon29x29@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hero_btn_bg5.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/wall_down.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/login_bg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/AppIcon60x60@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hero_btn_bg3.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/navigationbar_compose@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/newsRefreshBtnBg@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/back.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/navigationbar_compose.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/menu_icon@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/UMS_nav_button_back.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/NavBack.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/contentview_graylongbutton_highlighted@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/navbar_left_more@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/navbar_right_more@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/newsRefreshBtnBg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/contentview_graylongbutton_highlighted@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/navbar_left_more@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/navbar_right_more@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/UMS_nav_back_button_normal@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/UMS_nav_button_back@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/CustomizedNavBarBg@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/contentview_graylongbutton_highlighted.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/navigationbar_compose@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/UMS_nav_back_button_normal.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/menu_icon.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/NavHome.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/newsRefreshBtnBg@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/CustomizedNavBarBg.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/CustomizedNavBarBg@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/NavRefresh.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/NavForward.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/Nav_images/menu_icon@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/tbmessage_button_banner.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/icon_shipin.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/minjie@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/gongjili@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/hero_btn_bg1.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/封面.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/minjie.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYou IMAGES/gongjili@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYouUITests/Dota2ForYouUITests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYouUITests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYouTests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dota2ForYouTests/Dota2ForYouTests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROGRESS/Header.h" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

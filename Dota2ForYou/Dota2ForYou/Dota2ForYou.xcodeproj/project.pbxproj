@@ -6,7 +6,22 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXAggregateTarget section */
+		4D2BE5AE1D4EF03F00D591E6 /* testOutImage */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 4D2BE5B11D4EF04000D591E6 /* Build configuration list for PBXAggregateTarget "testOutImage" */;
+			buildPhases = (
+				4D2BE5B21D4EF04D00D591E6 /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = testOutImage;
+			productName = testOutImage;
+		};
+/* End PBXAggregateTarget section */
+
 /* Begin PBXBuildFile section */
+		296C56B058720B9DA7C6CF79 /* XRZNiceModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 296C5BFA95C076DD01069355 /* XRZNiceModel.m */; };
 		4D03A58E1CB50FB5002F47E0 /* XRZHerosHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D03A58D1CB50FB5002F47E0 /* XRZHerosHeaderView.m */; };
 		4D03A5931CB52136002F47E0 /* XRZDetailHero.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D03A5911CB52136002F47E0 /* XRZDetailHero.m */; };
 		4D03A5981CB5256A002F47E0 /* common_back_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D03A5951CB5256A002F47E0 /* common_back_button.png */; };
@@ -1176,6 +1191,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		296C5BFA95C076DD01069355 /* XRZNiceModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XRZNiceModel.m; sourceTree = "<group>"; };
+		296C5E951260006B0984527C /* XRZNiceModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XRZNiceModel.h; sourceTree = "<group>"; };
 		4D03A58C1CB50FB5002F47E0 /* XRZHerosHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XRZHerosHeaderView.h; sourceTree = "<group>"; };
 		4D03A58D1CB50FB5002F47E0 /* XRZHerosHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XRZHerosHeaderView.m; sourceTree = "<group>"; };
 		4D03A5901CB52136002F47E0 /* XRZDetailHero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XRZDetailHero.h; sourceTree = "<group>"; };
@@ -2660,6 +2677,8 @@
 				4DE57D1A1CBBB8AC00A91FD9 /* XRZInfoModel.m */,
 				4DE57D241CBBD0C900A91FD9 /* XRZInfoDetailModel.h */,
 				4DE57D251CBBD0C900A91FD9 /* XRZInfoDetailModel.m */,
+				296C5BFA95C076DD01069355 /* XRZNiceModel.m */,
+				296C5E951260006B0984527C /* XRZNiceModel.h */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -4061,6 +4080,10 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = XuRenzhong;
 				TargetAttributes = {
+					4D2BE5AE1D4EF03F00D591E6 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = K5UG45Q7G8;
+					};
 					4DE4A91D1CAD28F900B6D909 = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = K5UG45Q7G8;
@@ -4093,6 +4116,7 @@
 				4DE4A91D1CAD28F900B6D909 /* Dota2ForYou */,
 				4DE4A9331CAD28F900B6D909 /* Dota2ForYouTests */,
 				4DE4A93E1CAD28F900B6D909 /* Dota2ForYouUITests */,
+				4D2BE5AE1D4EF03F00D591E6 /* testOutImage */,
 			);
 		};
 /* End PBXProject section */
@@ -5185,6 +5209,22 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		4D2BE5B21D4EF04D00D591E6 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# begin ============================================= # Sets the target folders and the final framework product.\n# 如果工程名称和Framework的Target名称不一样的话，要自定义FMKNAME\n# 例如: FMK_NAME = \"MyFramework\"\nFMK_NAME=${PROJECT_NAME}\n# Install dir will be the final output to the framework.\n# The following line create it in the root folder of the current project.\nINSTALL_DIR=${SRCROOT}/Products/${FMK_NAME}.bundle\n# Working dir will be deleted after the framework creation.\nWRK_DIR=build\nDEVICE_DIR=${WRK_DIR}/Release-iphoneos/${FMK_NAME}.bundle\nSIMULATOR_DIR=${WRK_DIR}/Release-iphonesimulator/${FMK_NAME}.bundle\n# -configuration ${CONFIGURATION}\n# Clean and Building both architectures.\nxcodebuild -configuration \"Release\" -target \"${FMK_NAME}\" -sdk iphoneos -arch armv7 -arch armv7s -arch arm64 clean build\nxcodebuild -configuration \"Release\" -target \"${FMK_NAME}\" -sdk iphonesimulator -arch x86_64 clean build\n# Cleaning the oldest.\nif [ -d \"${INSTALL_DIR}\" ]\nthen\nrm -rf \"${INSTALL_DIR}\"\nfi\nmkdir -p \"${INSTALL_DIR}\"\ncp -R \"${DEVICE_DIR}/\" \"${INSTALL_DIR}/\"\n# Uses the Lipo Tool to merge both binary files (i386 + armv6/armv7) into one Universal final product.\nlipo -create \"${DEVICE_DIR}/${FMK_NAME}\"\"${SIMULATOR_DIR}/${FMK_NAME}\" -output\"${INSTALL_DIR}/${FMK_NAME}\"\nrm -r \"${WRK_DIR}\"\nopen \"${SRCROOT}/Products/\"\n# end ===============================================\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		4DE4A91A1CAD28F900B6D909 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -5272,6 +5312,7 @@
 				4D35CBDB1CAFA299008ED521 /* UIImageView+HighlightedWebCache.m in Sources */,
 				4DAD50D71CB24681005624C8 /* XRZNewsModel.m in Sources */,
 				4D35CBFA1CAFA2A9008ED521 /* AFURLSessionManager.m in Sources */,
+				296C56B058720B9DA7C6CF79 /* XRZNiceModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -5318,6 +5359,20 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		4D2BE5AF1D4EF04000D591E6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		4D2BE5B01D4EF04000D591E6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		4DE4A9461CAD28F900B6D909 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -5491,6 +5546,14 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		4D2BE5B11D4EF04000D591E6 /* Build configuration list for PBXAggregateTarget "testOutImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D2BE5AF1D4EF04000D591E6 /* Debug */,
+				4D2BE5B01D4EF04000D591E6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		4DE4A9191CAD28F900B6D909 /* Build configuration list for PBXProject "Dota2ForYou" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

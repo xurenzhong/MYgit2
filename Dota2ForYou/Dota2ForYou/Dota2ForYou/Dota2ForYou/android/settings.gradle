@@ -1,0 +1,3 @@
+rootProject.name = 'Dota2ForYou'
+
+include ':app'

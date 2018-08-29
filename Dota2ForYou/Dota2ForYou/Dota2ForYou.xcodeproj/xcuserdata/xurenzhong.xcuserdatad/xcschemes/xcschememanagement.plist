@@ -9,9 +9,19 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>testOutImage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>4D2BE5AE1D4EF03F00D591E6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>4DE4A91D1CAD28F900B6D909</key>
 		<dict>
 			<key>primary</key>
